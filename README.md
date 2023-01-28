@@ -6,7 +6,7 @@ I'm Subramani Krishnasamy!!!
 <img src="https://raw.githubusercontent.com/Subramani/Subramani/master/wave.gif" width="30px">
 
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India working in US.
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
