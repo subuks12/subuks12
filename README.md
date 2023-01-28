@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA.gif" width="100"/>
+  <img src="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA">
 </div>
 Hello, folks! 
 I'm Subramani Krishnasamy!!! :raised_hand_with_fingers_splayed:
