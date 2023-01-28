@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 Hello, folks! 
-I'm Subramani Krishnasamy!!! (:raised_hand_with_fingers_splayed:)
+I'm Subramani Krishnasamy!!! :raised_hand_with_fingers_splayed:
 
 
 
