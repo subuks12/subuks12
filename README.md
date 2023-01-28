@@ -4,8 +4,6 @@
 Hello, folks! 
 I'm Subramani Krishnasamy!!! :raised_hand_with_fingers_splayed:
 
-
-
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India working in US.
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
