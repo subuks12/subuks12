@@ -3,7 +3,7 @@
 </div>
 Hello, folks! 
 I'm Subramani Krishnasamy!!!
-<img src="[https://tenor.com/view/shake-hand-gif-19698939" width="30px">]
+
 
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India working in US.
@@ -17,4 +17,4 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Subramani-blue?style=flat&logo=Linkedin&logoColor=white)]([[your-linkedin-url](https://www.linkedin.com/in/subramani-krishnasamy-1b69271b5/)])
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Subramani-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/subramani-krishnasamy-1b69271b5/])
