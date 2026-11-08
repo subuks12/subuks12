@@ -19,16 +19,26 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Subramani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/subramani-krishnasamy-1b69271b5/)
 
+### :hammer_and_wrench: Skills and Technologies
+
+- **Mainframe Technology:** COBOL, JCL, DB2, IMS DB/DC, IBM utilities, MQ, CICS, Web Services
+- **Mainframe Tools:** IBM RDz, ISPW Topaz Continuous Development & Integration, Ezytrieve, XPEDITOR Batch & Online, QMF, DB2 Platinum, File Manager, CHANGEMAN, File-AID, TOAD DB2, z/OS Connect, IBM API Manager
+- **Other Technologies:** Python, Java, Kafka, SSIS, StreamSets, pipeline and data integration development using StreamSets or TIBCO BC/BW
+- **Domain Skills:**
+  - 2.5 years of healthcare knowledge on Claims Processing and Cap Funding applications
+  - 8.5 years of Retail Industry IT applications
+  - 3 years of Banking and Insurance applications
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
