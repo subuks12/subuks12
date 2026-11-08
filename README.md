@@ -1,45 +1,32 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA">
-</div>
-Hello, folks! 
-I'm Subramani Krishnasamy!!! :raised_hand_with_fingers_splayed:
+# Hi, I'm Subramani Krishnasamy
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India working in US.
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+Software Development Manager and software engineer with experience building and supporting enterprise applications across insurance, banking, retail, and healthcare. I contribute to frontend and backend development for insurance web applications and bring a background in mainframe systems and data integration.
 
-- :telescope: I’m working as a Software Development Manager and contributing to frontend and backend for building web applications for Insurance Industry.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subramani-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subramani-krishnasamy-1b69271b5/)
 
-- :seedling: Exploring Technology
+## Background
 
-- 🌱: I like AI and started doing my masters in AI and ML.
+- Software Development Manager contributing to web application development for the insurance industry
+- Experience across healthcare claims processing and cap funding applications, retail IT applications, and banking and insurance applications
+- Pursuing graduate studies in Artificial Intelligence and Machine Learning
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+## Technical Interests and Goals
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Subramani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/subramani-krishnasamy-1b69271b5/)
+I’m interested in AI and machine learning, full-stack application development, enterprise systems, and data integration. I enjoy solving technical problems involving reliable business applications and connecting systems and data across platforms. As I continue my graduate studies, I’m building my skills in AI and machine learning and aim to apply what I learn to practical software projects.
 
-### :hammer_and_wrench: Skills and Technologies
+## Skills and Technologies
 
-- **Mainframe Technology:** COBOL, JCL, DB2, IMS DB/DC, IBM utilities, MQ, CICS, Web Services
-- **Mainframe Tools:** IBM RDz, ISPW Topaz Continuous Development & Integration, Ezytrieve, XPEDITOR Batch & Online, QMF, DB2 Platinum, File Manager, CHANGEMAN, File-AID, TOAD DB2, z/OS Connect, IBM API Manager
-- **Other Technologies:** Python, Java, Kafka, SSIS, StreamSets, pipeline and data integration development using StreamSets or TIBCO BC/BW
-- **Domain Skills:**
-  - 2.5 years of healthcare knowledge on Claims Processing and Cap Funding applications
-  - 8.5 years of Retail Industry IT applications
-  - 3 years of Banking and Insurance applications
+- **Mainframe:** COBOL, JCL, DB2, IMS DB/DC, IBM utilities, MQ, CICS, Web Services
+- **Mainframe tools:** IBM RDz, ISPW Topaz Continuous Development & Integration, Ezytrieve, XPEDITOR Batch & Online, QMF, DB2 Platinum, File Manager, CHANGEMAN, File-AID, TOAD DB2, z/OS Connect, IBM API Manager
+- **Programming and data integration:** Python, Java, Kafka, SSIS, StreamSets, and pipeline/data integration development using StreamSets or TIBCO BC/BW
+- **Web and cloud technologies:** React, Spring, Material UI, MySQL, Node.js, AWS, Git
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+## Industry Experience
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+- **Healthcare:** 2.5 years, including claims processing and cap funding applications
+- **Retail:** 8.5 years working with industry IT applications
+- **Banking and insurance:** 3 years working with industry applications
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/subramani-krishnasamy-1b69271b5/)
