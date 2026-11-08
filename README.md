@@ -60,7 +60,7 @@ IBM RDz · ISPW Topaz · Ezytrieve · XPEDITOR · QMF · DB2 Platinum · File Ma
 | --- | ---: |
 | Healthcare | 2.5 years — claims processing and cap funding applications |
 | Retail | 8.5 years — industry IT applications |
-| Banking and insurance | 8 years — industry applications |
+| Banking / insurance | 3/6 years — industry applications |
 
 ## 🤝 Connect With Me
 
