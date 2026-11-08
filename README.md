@@ -11,7 +11,9 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: I’m working as a Software Development Manager and contributing to frontend and backend for building web applications for Insurance Industry.
 
-- :seedling: Exploring Technology 
+- :seedling: Exploring Technology
+
+- 🌱: I like AI and started doing my masters in AI and ML.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
